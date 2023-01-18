@@ -1,5 +1,9 @@
 <?php
 
+do {
+    $platzi_rank_user = (int) readline("Por favor, dinos cual es tu Platzi Rank: ");
+    es_estudiante_legend($platzi_rank_user);
+} while(true);
 function es_estudiante_legend($platzi_rank) {
 
     if ($platzi_rank >= 20000) {
@@ -10,9 +14,6 @@ function es_estudiante_legend($platzi_rank) {
     }
 }
 
-$platzi_rank_user = (int) readfile("Por favor, dinos cual es tu Platzi Rank: ");
-
-es_estudiante_legend($platzi_rank_user);
 
 echo "\n";
 
