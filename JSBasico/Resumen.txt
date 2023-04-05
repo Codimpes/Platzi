@@ -1,0 +1,4 @@
+Java Script es un lenguaje interpretado, orientado a objetos, debilmente tipado y dinámico.
+Forward es que si sale una nueva versión ya la puedes utilizar en determinado lenguaje de programación.
+Backward no se puede utilizar las nuevas versiones de un lenguaje de programación.
+Babel compiladores para nuevas versiones de javaScript para que le navegador las entienda.
