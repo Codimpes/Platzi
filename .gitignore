@@ -4,6 +4,7 @@
 ### Laravel ###
 /vendor/
 /Manejo_de_Datos_en_PHP/Proyecto/vendor/
+/POO-PHP/Proyecto/vendor/
 node_modules/
 npm-debug.log
 yarn-error.log
