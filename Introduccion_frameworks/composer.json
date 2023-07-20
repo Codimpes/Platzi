@@ -1,0 +1,19 @@
+{
+    "name": "jeyson/introduccion_frameworks",
+    "description": "Poyecto Introd Frameworks",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "jeysonumana",
+            "email": "jeyson.umana@esinergia.co"
+        }
+    ],
+    "require": {}
+}

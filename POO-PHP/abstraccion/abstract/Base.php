@@ -2,6 +2,11 @@
 
 abstract class Base
 {
+    /**
+     * Undocumented function
+     *
+     * @return void
+     */
     public function get()
     {
         // ...
