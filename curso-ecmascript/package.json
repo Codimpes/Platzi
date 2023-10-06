@@ -12,5 +12,6 @@
     "curso"
   ],
   "author": "Jeyson Umaña <umanajeyson1@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
