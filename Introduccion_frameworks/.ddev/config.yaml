@@ -1,10 +1,10 @@
-name: introduccion-framework
+name: frameworksphp
 type: php
 docroot: public
 php_version: "8.0"
 webserver_type: nginx-fpm
-router_http_port: "8002"
-router_https_port: "44302"
+router_http_port: "8012"
+router_https_port: "44312"
 xdebug_enabled: false
 additional_hostnames: []
 additional_fqdns: []
